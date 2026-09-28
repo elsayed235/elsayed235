@@ -1,7 +1,3 @@
-md
-
-
-
 👋 Hi, I'm Elsayed Abd Elmoneim
 Mobile Application Developer | Flutter | AI-Powered Apps & LLM Integrations
 I’m a Mobile Application Developer focused on building production-ready iOS and Android apps with Flutter.
