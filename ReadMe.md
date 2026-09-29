@@ -186,7 +186,7 @@ I use Claude, Cursor and Copilot daily for feature delivery, refactoring and cod
 </p>
 <p align="center">
   <b>Backend & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=laravel,php,firebase,aws,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,firebase,graphql&theme=dark" />
 </p>
 <p align="center">
   <b>Quality & Delivery</b><br>
