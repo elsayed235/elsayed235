@@ -66,7 +66,7 @@ I use AI development tools every day for research, planning, refactoring, testin
 
 **Backend & Services**
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,nodejs,postman,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,postman,githubactions&theme=dark" />
 </p>
 
 **Tools & Design**
