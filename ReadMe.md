@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:02569B,100:13B9FD&height=230&section=header&text=Elsayed%20Abdelmoneem&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Team%20Lead%20%C2%B7%20Flutter%20%26%20Native%20Mobile&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Elsayed Abdelmoneem — Mobile Team Lead · Flutter &amp; Native Mobile" />
 </p>
 
 <p align="center">
@@ -239,5 +239,5 @@ Open to product teams where a mobile engineer can **own features, shape technica
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:02569B,100:0B1F3A&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
