@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:02569B,100:13B9FD&height=230&section=header&text=Elsayed%20Abdelmoneem&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20AI-Powered%20Apps&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:02569B,100:13B9FD&height=230&section=header&text=Elsayed%20Abdelmoneem&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Team%20Lead%20%C2%B7%20Flutter%20%26%20Native%20Mobile&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -34,7 +34,8 @@ final elsayed = MobileEngineer(
   shipping:  'since 2020 · iOS & Android',
   frontEnd:  ['Flutter', 'Swift', 'Kotlin'],
   backEnd:   ['Laravel', 'Firebase Functions'],
-  ai:        ['Structured output', 'Tool calling', 'MCP', 'Streaming'],
+  ai:        ['Tool-calling agents', 'MCP', 'Structured output', 'Streaming'],
+  aiTools:   ['Claude', 'Cursor', 'Copilot'],
   standards: ['Clean Architecture', 'BLoC', 'TDD', 'CI/CD'],
   languages: ['Arabic (native)', 'English (professional)'],
 );
@@ -89,58 +90,71 @@ Delivered **5 client apps** for the Saudi market from first screen to store rele
 
 ## 📱 Selected Projects
 
+<sub>Tap any store button to open the live app listing.</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏠 Sakan
-<img src="https://img.shields.io/badge/100K%2B-downloads-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/100K%2B%20downloads-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Real%20Estate-02569B?style=flat-square" />
 
-Real-estate platform: advanced filtering, saved and compare lists, price-change alerts, maps, and direct buyer-to-seller contact. Tuned to scroll large listing datasets smoothly.
+Property search with advanced filtering, saved and compare lists, price-change alerts, maps, and direct buyer-to-seller contact. Tuned to keep large listing datasets fast and smooth.
+
+<a href="https://play.google.com/store/apps/details?id=co.sakan.android&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/%D8%B3%D9%83%D9%86-sakan/id1169622789"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚗 Zaheb
-<img src="https://img.shields.io/badge/Driver%20%2B%20Customer-2%20apps-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Ride--Hailing%20%26%20Delivery-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Driver%20%2B%20Customer%20apps-02569B?style=flat-square" />
 
-Ride-hailing and delivery: real-time location tracking, driver assignment, order management and live status updates across two coordinated apps.
+Two coordinated apps with real-time location tracking, driver assignment, order management and live status updates.
+
+**Driver** &nbsp;<a href="https://play.google.com/store/apps/details?id=zaheb.driver.sa&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/zaheb-driver/id6476413695"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a><br>
+**Customer** <a href="https://play.google.com/store/apps/details?id=zaheb.client.sa&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/zaheb/id6476413582"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
-<td valign="top">
-
-### 📦 Weideliver
-<img src="https://img.shields.io/badge/Store%20%2B%20Driver-2%20apps-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-
-Delivery and logistics: merchants dispatch orders, drivers accept jobs and track weekly earnings. Supports an in-house fleet and an on-demand driver pool.
-
-</td>
 <td valign="top">
 
 ### 🏙️ City Guide (دليل المدينة)
-<img src="https://img.shields.io/badge/Super--App-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Services%20Super--App-02569B?style=flat-square" />
 
-Multi-vendor marketplace where local businesses list products and services, and customers order and message vendors directly.
+Multi-vendor marketplace connecting a whole city: businesses showcase products and services, customers order and message vendors directly.
+
+<a href="https://play.google.com/store/apps/details?id=ta.daleel.masr.eg&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a> <a href="https://apps.apple.com/us/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9/id6504849336"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
+
+</td>
+<td valign="top">
+
+### 📦 Weideliver
+<img src="https://img.shields.io/badge/Delivery%20%26%20Logistics-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Store%20%2B%20Driver%20apps-02569B?style=flat-square" />
+
+Two-sided platform: merchants manage orders and dispatch from the store app (**Suliit Store**), drivers go online, accept jobs and track weekly earnings. Supports a business's own fleet and an on-demand driver pool.
+
+<a href="https://play.google.com/store/apps/details?id=ua.suliitstore.app.com"><img src="https://img.shields.io/badge/Store%20%C2%B7%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=ua.suliitdriver.com"><img src="https://img.shields.io/badge/Driver%20%C2%B7%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 🛒 Reserva
-<img src="https://img.shields.io/badge/E--Commerce-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+### 🕊️ Wafeyyat
+<img src="https://img.shields.io/badge/After--Death%20Services-02569B?style=flat-square" />
 
-Store management, catalogs and checkout with payments, vouchers, discounts and wallet logic. Heavy on checkout validation and error handling.
+Guides families through obituaries, burial and funeral arrangements, prayers and required documents, with services filtered by religious practice.
+
+<a href="https://play.google.com/store/apps/details?id=lbn.wafyyat.com"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 
 </td>
 <td valign="top">
 
-### 🕊️ Wafeyyat
-<img src="https://img.shields.io/badge/Services-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+### 🛒 Reserva
+<img src="https://img.shields.io/badge/E--Commerce-02569B?style=flat-square" /> <img src="https://img.shields.io/badge/Android%20%C2%B7%20iOS-555555?style=flat-square" />
 
-Guides families through obituaries, funeral arrangements and required documents, with services filtered by religious practice.
+Store management, catalogs and order flows with payments, vouchers, discounts and wallet logic. Heavy on checkout validation and error handling.
 
 </td>
 </tr>
@@ -162,7 +176,7 @@ Guides families through obituaries, funeral arrangements and required documents,
 Clean Architecture / MVVM  →  BLoC · Provider · GetX  →  TDD  →  CI/CD  →  Production monitoring
 ```
 
-AI tools are part of my daily workflow for research, refactoring, testing and debugging. They don't replace engineering judgment; they free up time for the product problems that matter.
+I use Claude, Cursor and Copilot daily for feature delivery, refactoring and code review, and build tool-calling agents and MCP integrations to automate delivery workflows. They don't replace engineering judgment; they free up time for the product problems that matter.
 
 ## 🛠️ Tech Stack
 
@@ -187,6 +201,10 @@ AI tools are part of my daily workflow for research, refactoring, testing and de
   <img src="https://img.shields.io/badge/Tool%20Calling-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Streaming%20%26%20Structured%20Output-0B1F3A?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ## 📊 GitHub Activity
