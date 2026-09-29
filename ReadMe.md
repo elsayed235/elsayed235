@@ -1,22 +1,4 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:02569B,100:13B9FD&height=230&section=header&text=Elsayed%20Abdelmoneem&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Team%20Lead%20%C2%B7%20Flutter%20%26%20Native%20Mobile&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=13B9FD&center=true&vCenter=true&width=720&lines=Shipping+production+iOS+%26+Android+apps+since+2020;Mobile+Team+Lead+%40+Code+Craft+%C2%B7+team+of+6;Real-estate+app+with+100K%2B+downloads;LLM+integrations+%C2%B7+tool-calling+agents+%C2%B7+MCP;Flutter+%C2%B7+Swift+%C2%B7+Kotlin+%C2%B7+Laravel+%C2%B7+Firebase" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elsayed-abd-elmonem-arab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:elsaed3766@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Mansoura,%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Remote-2ea44f?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayed235&style=flat-square&color=02569B&label=profile+views" />
-</p>
+<!-- ============ HEADER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:02569B,100:13B9FD&height=230&section=header&text=Elsayed%20Abdelmoneem&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Team%20Lead%20%C2%B7%20Flutter%20%26%20Native%20Mobile&descSize=18&descAlignY=56&animation=fadeIn" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=13B9FD&center=true&vCenter=true&width=720&lines=Shipping+production+iOS+%26+Android+apps+since+2020;Mobile+Team+Lead+%40+Code+Craft+%C2%B7+team+of+6;Real-estate+app+with+100K%2B+downloads;LLM+integrations+%C2%B7+tool-calling+agents+%C2%B7+MCP;Flutter+%C2%B7+Swift+%C2%B7+Kotlin+%C2%B7+Laravel+%C2%B7+Firebase" alt="Typing intro" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/elsayed-abd-elmonem-arab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:elsaed3766@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Mansoura,%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" /> <img src="https://img.shields.io/badge/Open%20to%20Remote-2ea44f?style=for-the-badge" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=elsayed235&style=flat-square&color=02569B&label=profile+views" /> </p>
 
 ---
 
