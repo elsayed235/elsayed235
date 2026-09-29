@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Elsayed Abdelmoneem — Mobile Team Lead · Flutter &amp; Native Mobile" />
+  <img src="./assets/header.svg" width="100%" alt="Elsayed Abdelmoneem — Mobile Application Developer · Flutter" />
 </p>
 
 <p align="center">
