@@ -1,71 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=3DDC84&center=true&vCenter=true&width=700&lines=%24+whoami;Elsayed+Abd+Elmoneem;Mobile+Application+Developer;Flutter+%E2%80%A2+Swift+%E2%80%A2+Kotlin+%E2%80%A2+AI%2FLLM" />
-</p>
+<h1 align="center">Elsayed Abd Elmoneem</h1>
+<p align="center"><b>Mobile Application Developer · Flutter · AI-Powered Apps & LLM Integrations</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayed235&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/elsayed-abd-elmonem-arab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elsaed3766@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Building%20since-2021-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remote-preferred-2ea44f?style=flat-square" />
 </p>
 
-```console
-elsayed@dev:~$ cat profile.json
-{
-  "name":        "Elsayed Abd Elmoneem",
-  "role":        "Mobile Application Developer",
-  "building":    "since 2021",
-  "main":        ["Flutter", "Dart"],
-  "native":      ["Swift", "Kotlin"],
-  "specialty":   "AI-powered apps & LLM integrations",
-  "cares_about": ["clean architecture", "testing", "performance", "UX"],
-  "open_to":     "product teams, remote preferred"
-}
-```
+---
 
-```console
-elsayed@dev:~$ ls ./skills
-cross-platform-apps/    ai-llm-integration/    tdd-automated-testing/
-scalable-architecture/  performance-tuning/    native-swift/
-native-kotlin/          apis-firebase-payments/ backend-when-needed/
-```
+I build production-ready iOS and Android apps with Flutter, from idea to release. Flutter is my main tool; I go native with Swift or Kotlin when a feature calls for it, and I work on the backend when that helps the product ship.
 
-```console
-elsayed@dev:~$ ./pipeline --show
-[1/5] Clean Architecture ........ ✔
-[2/5] BLoC state management ..... ✔
-[3/5] Test-Driven Development ... ✔
-[4/5] CI/CD ..................... ✔
-[5/5] Production monitoring ..... ✔
-```
+What I care about: clean architecture, maintainable code, testing, performance, and a user experience that holds up in production.
 
-```console
-elsayed@dev:~$ cat notes/ai.md
-AI tools help me research, plan, refactor, test and debug faster.
-They don't replace engineering judgment. They buy time for product problems.
-```
+### Focus
 
-### `$ stack --list`
+- **Flutter & Dart** for cross-platform mobile apps
+- **AI / LLM integrations** inside real product features
+- **TDD** and automated testing
+- **Architecture** that keeps business logic independent of the UI
+- **Native Swift / Kotlin** for platform-specific work
+- **Integrations**: APIs, Firebase, auth, payments, deep links, third-party SDKs
+
+### Workflow
+
+`Clean Architecture` → `BLoC` → `TDD` → `CI/CD` → `Production monitoring`
+
+AI tools are part of my daily work for research, refactoring, testing and debugging, so more of my time goes to product problems.
+
+### Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Activity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,firebase,nodejs,postman,githubactions,git,github,vscode,figma&theme=dark&perline=13" />
+  <img src="https://github-readme-stats.shion.dev/api?username=elsayed235&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=elsayed235&theme=github-dark-blue&hide_border=true" height="160" />
 </p>
 
-### `$ git log --stats`
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=elsayed235&theme=chartreuse-dark&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=elsayed235&theme=chartreuse-dark&hide_border=true&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsayed235&bg_color=0d1117&color=3DDC84&line=3DDC84&point=ffffff&area=true&area_color=3DDC84&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elsayed235&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
-### `$ contact`
-
-<p>
-  <a href="https://www.linkedin.com/in/elsayed-abd-elmonem-arab"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3DDC84" /></a>
-  <a href="mailto:elsaed3766@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3DDC84" /></a>
-</p>
+<p align="center"><sub>Open to product teams where a mobile engineer can own features end to end.</sub></p>
